@@ -269,12 +269,12 @@
     "subject": "release(claude-code): v0.6.4",
     "author": "Nicolò Boschi",
     "author_date": "2026-05-08T16:54:53+02:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/6aab6c89dc672363346b14f9e2607e3b2358a7ef",
+    "url": "https://github.com/garybense/entelechy/commit/6aab6c89dc672363346b14f9e2607e3b2358a7ef",
     "pr_number": null,
     "pr_url": null
   },
   "workflow_run": {
     "id": "25594312262",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25594312262"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25594312262"
   }
 }

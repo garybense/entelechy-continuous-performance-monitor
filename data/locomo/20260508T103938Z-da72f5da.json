@@ -122,12 +122,12 @@
     "subject": "perf(locomo): scope CI to a 3-conversation curated subset (#1536)",
     "author": "Nicolò Boschi",
     "author_date": "2026-05-08T11:45:23+02:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/da72f5da44ec169cf718d26ccee5fe8a00bd35bd",
+    "url": "https://github.com/garybense/entelechy/commit/da72f5da44ec169cf718d26ccee5fe8a00bd35bd",
     "pr_number": 1536,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1536"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1536"
   },
   "workflow_run": {
     "id": "25548819149",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25548819149"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25548819149"
   }
 }

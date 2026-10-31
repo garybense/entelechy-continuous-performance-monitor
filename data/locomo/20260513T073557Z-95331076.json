@@ -122,12 +122,12 @@
     "subject": "security: bump urllib3 to 2.7.0 in integration lockfiles (#1603)",
     "author": "Derek Bouius",
     "author_date": "2026-05-12T22:26:24-04:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/9533107612f0ab685ec8a0df228bc405ca7d0f70",
+    "url": "https://github.com/garybense/entelechy/commit/9533107612f0ab685ec8a0df228bc405ca7d0f70",
     "pr_number": 1603,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1603"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1603"
   },
   "workflow_run": {
     "id": "25783476611",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25783476611"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25783476611"
   }
 }

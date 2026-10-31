@@ -269,12 +269,12 @@
     "subject": "feat(perf): publish perf-test results to external dashboard (#1474)",
     "author": "Nicolò Boschi",
     "author_date": "2026-05-06T15:12:11+02:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/efe5ff8494e81a51d098200ddbcd5c1be60048e2",
+    "url": "https://github.com/garybense/entelechy/commit/efe5ff8494e81a51d098200ddbcd5c1be60048e2",
     "pr_number": 1474,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1474"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1474"
   },
   "workflow_run": {
     "id": "25438062619",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25438062619"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25438062619"
   }
 }
