@@ -19,7 +19,7 @@
     import {
       loadManifest, loadRun, renderHeader, fmtNumber, fmtDateTime, fmtDate,
       deltaPct, escapeHtml, SUITES, SUITE_LABELS, SUITE_METRICS, getSuite,
-      HINDSIGHT_REPO,
+      ENTELECHY_REPO,
     } from './assets/app.js';
 
     document.getElementById('page-header').innerHTML = renderHeader('compare');
@@ -51,7 +51,7 @@
         `<option value="${r.short_sha}">${fmtDate(r.author_date)} · ${r.short_sha} · ${escapeHtml((r.subject ?? '').slice(0, 60))}</option>`
       ).join('');
 
-      const githubCompare = `https://github.com/${HINDSIGHT_REPO}/compare/${entryA.sha}...${entryB.sha}`;
+      const githubCompare = `https://github.com/${ENTELECHY_REPO}/compare/${entryA.sha}...${entryB.sha}`;
 
       const selectCls = 'px-2 py-1 text-sm border border-gray-300 rounded bg-white max-w-xs truncate';
       const labelCls = 'text-xs uppercase tracking-wide text-gray-500 font-medium block mb-1';
