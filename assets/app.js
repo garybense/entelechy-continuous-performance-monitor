@@ -1,4 +1,4 @@
-// Shared utilities for the Hindsight perf dashboard.
+// Shared utilities for the Entelechy perf dashboard.
 // Pure ES module, no build step. Loaded via <script type="module">.
 // Styling via Tailwind Play CDN (loaded in each HTML page).
 
@@ -239,7 +239,7 @@ export function renderHeader(activePage = '') {
     <div class="max-w-7xl mx-auto flex items-center gap-6 flex-wrap">
       <a href="index.html" class="flex items-center gap-2 no-underline text-gray-900">
         <span class="inline-block w-2 h-2 rounded-full bg-indigo-500"></span>
-        <h1 class="text-[15px] font-semibold tracking-tight m-0">Hindsight Performance</h1>
+        <h1 class="text-[15px] font-semibold tracking-tight m-0">Entelechy Performance</h1>
       </a>
       <nav class="flex gap-0.5 flex-wrap">
         ${pages.map(link).join('')}

@@ -1,4 +1,4 @@
-# Hindsight perf dashboard
+# Entelechy perf dashboard
 
 Static dashboard rendering perf-test results for [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight). Lives on the `gh-pages` branch of this repo and is served at:
 
