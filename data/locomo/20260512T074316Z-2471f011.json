@@ -122,12 +122,12 @@
     "subject": "blog: add category filter to blog landing page (#1580)",
     "author": "Ben",
     "author_date": "2026-05-11T16:07:13-04:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/2471f01107d90c2b13410bf929050cd67072d281",
+    "url": "https://github.com/garybense/entelechy/commit/2471f01107d90c2b13410bf929050cd67072d281",
     "pr_number": 1580,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1580"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1580"
   },
   "workflow_run": {
     "id": "25718450490",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25718450490"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25718450490"
   }
 }

@@ -269,12 +269,12 @@
     "subject": "blog: n8n Workflows Are Stateless. Hindsight Makes Them Compound. (#1511)",
     "author": "Ben",
     "author_date": "2026-05-07T13:10:10-04:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/8c6be6de6c7bf8ad1539f56999e4742b4284cf37",
+    "url": "https://github.com/garybense/entelechy/commit/8c6be6de6c7bf8ad1539f56999e4742b4284cf37",
     "pr_number": 1511,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1511"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1511"
   },
   "workflow_run": {
     "id": "25540776926",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25540776926"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25540776926"
   }
 }

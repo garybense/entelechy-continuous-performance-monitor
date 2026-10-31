@@ -269,12 +269,12 @@
     "subject": "blog: Your Claude Code Subagents Don't Share What They Learn (#1456)",
     "author": "Ben",
     "author_date": "2026-05-06T15:13:19-04:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/a3465dd1fe8d2627dfd456c5f242db910a3a1f9e",
+    "url": "https://github.com/garybense/entelechy/commit/a3465dd1fe8d2627dfd456c5f242db910a3a1f9e",
     "pr_number": 1456,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1456"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1456"
   },
   "workflow_run": {
     "id": "25480759154",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25480759154"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25480759154"
   }
 }

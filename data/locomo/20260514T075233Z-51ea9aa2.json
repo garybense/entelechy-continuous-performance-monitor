@@ -122,12 +122,12 @@
     "subject": "fix(cli, control-plane): make retain Event Date / timestamp actually reach the API (#1622)",
     "author": "Ben",
     "author_date": "2026-05-13T16:51:21-04:00",
-    "url": "https://github.com/vectorize-io/hindsight/commit/51ea9aa2864bbc77065c763f450691f4311a5a9f",
+    "url": "https://github.com/garybense/entelechy/commit/51ea9aa2864bbc77065c763f450691f4311a5a9f",
     "pr_number": 1622,
-    "pr_url": "https://github.com/vectorize-io/hindsight/pull/1622"
+    "pr_url": "https://github.com/garybense/entelechy/pull/1622"
   },
   "workflow_run": {
     "id": "25846448626",
-    "url": "https://github.com/vectorize-io/hindsight/actions/runs/25846448626"
+    "url": "https://github.com/garybense/entelechy/actions/runs/25846448626"
   }
 }

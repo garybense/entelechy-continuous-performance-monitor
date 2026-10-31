@@ -1,12 +1,12 @@
 # Entelechy perf dashboard
 
-Static dashboard rendering perf-test results for [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight). Lives on the `gh-pages` branch of this repo and is served at:
+Static dashboard rendering perf-test results for [garybense/entelechy](https://github.com/garybense/entelechy). Lives on the `gh-pages` branch of this repo and is served at:
 
-**https://vectorize-io.github.io/hindsight-continuous-performance-monitor/**
+**https://entelechy-continuous-performance-monitor-production.up.railway.app/**
 
 ## How it works
 
-The hindsight `Performance Tests` workflow runs perf-test on every scheduled tick (and on push to dev branches), then runs `scripts/benchmarks/publish-perf-results.sh` which:
+The entelechy `Performance Tests` workflow runs perf-test on every scheduled tick (and on push to dev branches), then runs `scripts/benchmarks/publish-perf-results.sh` which:
 
 1. Enriches the perf-test JSON with commit metadata (subject, author, date, commit URL, PR URL).
 2. Clones this repo's `gh-pages` branch with a PAT.
